@@ -27,6 +27,7 @@ function c(){
 
 console.log('carousela')
 console.log('2')
+console.log('1')
 
     
 }
@@ -34,4 +35,3 @@ console.log('2')
 a();
 b();
 c();
-console.log('1')
