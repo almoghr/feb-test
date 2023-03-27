@@ -1,13 +1,13 @@
-function a () {
+function a (){
     console.log('hi')
 }
 
 function b(){
-alert('wow')
+    alert('wow')
 } 
 
 function c(){
-prompt('enter something')
+    prompt('enter something')
 }
 
 a();
