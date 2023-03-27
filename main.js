@@ -7,7 +7,7 @@ alert('wow')
 } 
 
 function c(){
-
+prompt('enter something')
 }
 
 a();
