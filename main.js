@@ -8,6 +8,7 @@ function b(){
 
 function c(){
     prompt('enter something')
+    console.log('c')
 }
 
 a();
