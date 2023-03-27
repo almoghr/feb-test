@@ -4,6 +4,16 @@ function a (){
 
 function b(){
     alert('wow')
+
+
+
+
+
+
+
+
+
+    
 } 
 
 function c(){
