@@ -25,7 +25,7 @@ function c(){
 
 
 
-
+console.log('carousela')
 
 
     
